@@ -30,6 +30,13 @@ h3 {
 td{
   padding: 10px 20px;
 }
+a{
+  color: #51C4D3;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
 /*************CLASS STYLE************/
 .breaker {
   border-style: dotted none none none;
